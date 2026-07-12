@@ -1,106 +1,92 @@
-<h1 align="center">Hey 👋, I'm Divyanshu</h1>
+# Divyanshu Vishwakarma
 
-<h3 align="center">
-🚀 B.Tech Student | DSA Learner | AIML Enthusiast | Frontend Developer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Competitive+Programmer+💻;Learning+DSA+and+AIML+🚀;Building+Cool+Projects+⚡" />
-</p>
+> *Software Engineering Student • Frontend Developer • Open Source Contributor*
 
 ---
 
-# 💫 About Me
+## About
 
-🎓 I'm currently pursuing **B.Tech** at **KIET Deemed to be University**
+I'm a B.Tech student at **KIET Deemed to be University** passionate about building useful software and solving real-world problems.
 
-🌱 Currently learning:
-- Data Structures & Algorithms
-- Artificial Intelligence & Machine Learning
-- Frontend Development
-
-💻 I enjoy:
-- Solving coding problems
-- Building projects
-- Learning new technologies
-- Competitive Programming
-
-🚀 Goal:
-> To become a skilled Software Engineer and contribute to impactful AI projects.
-
-📫 Reach me at:
-**divyanshuyt4@gmail.com**
+My interests include frontend development, artificial intelligence, open source, and competitive programming. I enjoy writing clean code, learning new technologies, and contributing to projects that create impact.
 
 ---
 
-# 🌐 Connect With Me
+## Experience
 
-<p align="left">
-<a href="https://www.linkedin.com/in/divyanshu-vishwakarma2006/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+### GirlScript Summer of Code 2026
+Open Source Contributor
 
-<a href="https://leetcode.com/u/divyanshu_dee/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="45" />
-</a>
-
-<a href="https://github.com/divyanshu-dee" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-</p>
+- Fixed bugs
+- Improved documentation
+- Collaborated with developers
 
 ---
 
-# 🚀 Tech Stack
+## Projects
 
-<p align="center">
+### College Resource Platform
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,react,tailwind,git,github,vscode" />
+A centralized platform providing notes, PYQs, syllabus, and study resources for students.
 
-</p>
+### EDUCOUNT
 
----
+Face Recognition Attendance System with automated reports.
 
-# 📊 GitHub Stats
+### She Can Foundation
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu-dee&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-dee&theme=tokyonight&hide_border=true" />
-</p>
+Responsive NGO website built using React.
 
 ---
 
-# 📈 Activity Graph
+## Toolbox
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu-dee&theme=tokyo-night&hide_border=true" />
-</p>
+**Languages**
 
----
+C++ • Python • JavaScript • HTML • CSS
 
-# 🏆 LeetCode Stats
+**Frontend**
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/divyanshu_dee?theme=dark&font=Nunito&ext=contest" />
-</p>
+React • Tailwind CSS
 
----
+**Learning**
 
-# ✨ Random Dev Quote
+Flutter • AI/ML
 
-<p align="center">
-  
-> “Consistency beats motivation.” 🚀
+**Tools**
 
-</p>
+Git • GitHub • VS Code • Figma
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyanshu-dee&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## Competitive Programming
+
+• Codeforces — Newbie
+
+• CodeChef — ★★
+
+• LeetCode
+
+---
+
+## GitHub
 
 <p align="center">
-⭐ From <a href="https://github.com/divyanshu-dee">Divyanshu</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshu-dee&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-dee&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+## Contact
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/divyanshu-dee/
+- 💻 **GitHub:** https://github.com/divyanshu-dee
+- 🧩 **LeetCode:** https://leetcode.com/u/divyanshu_dee/
+- 📧 **Email:** divyanshuyt4@gmail.com
+---
+
+> *"Build. Learn. Improve. Repeat."*
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=divyanshu-dee&style=for-the-badge"/>
 </p>
